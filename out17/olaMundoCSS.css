@@ -1,0 +1,26 @@
+
+/*olaMundo.css*/
+h1{
+    font-size: 44px;
+    color: rgb(0,128,60);
+    
+    
+}
+abbr{    
+    border-bottom-style: dotted;
+    padding: 20px;
+    margin: 30px;
+    width: 500px;
+    display: inline-block;    
+}
+
+a{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: yellow;
+    padding: 5px;
+  text-decoration: none;
+  color: black;
+    
+}
