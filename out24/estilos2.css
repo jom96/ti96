@@ -1,0 +1,45 @@
+              body{
+                    
+                     width:600px;
+                     margin-top: auto;
+                    margin-left: auto;
+                    margin-right: auto;
+                   text-align: center;
+                   font-size: 150%;
+                   
+                }
+                h1{
+                  background-color: black;
+                    border: double;
+                    border-color: white;
+                    color: white;
+                  border-radius: 25px;
+                  background-image: url(COLOURlovers.com-Grey_Background.jpg);
+                }
+           
+                ul{
+                  background-image: url(COLOURlovers.com-Grey_Background.jpg);
+                    border: double;
+                    border-color: white;
+                    color: white;
+                   border-radius: 15px;
+                   list-style: none;
+                   list-style-image: url(aluno_32.png);
+                }
+                li{
+                  display: list-item;
+                  text-align: -webkit-match-parent;
+                 border-radius: 25px;
+                  color: white;
+                  border: solid;
+                 border-color: white;
+                 
+               
+                  
+                    
+                }
+                a{
+                  text-decoration: none;
+                  color: white;
+                }
+                

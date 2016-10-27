@@ -1,0 +1,44 @@
+/*  estilos.css     */
+
+              body{
+                    
+                     width:600px;
+                     margin-top: auto;
+                    margin-left: auto;
+                    margin-right: auto;
+                   text-align: center;
+                   font-size: 150%;
+              } 
+            h1{
+                  background-color: black;
+                    border: double;
+                    border-color: white;
+                    color: white;
+                  border-radius: 25px;
+                  background-image: url(COLOURlovers.com-Grey_Background.jpg);
+                }
+                
+                
+                    .div1{
+                  background-image: url(COLOURlovers.com-Grey_Background.jpg);
+                    border: double;
+                    border-color: white;
+                    color: white;
+                   border-radius: 15px;
+               
+                }
+                       p{
+               text-align: -webkit-match-parent;
+                 border-radius: 25px;
+                  color: white;
+                  border: solid;
+                 border-color: white;
+                }
+                
+                img{
+               text-align: -webkit-match-parent;
+                 border-radius: 25px;
+                  color: white;
+                  border: solid;
+                 border-color: white;
+                }
