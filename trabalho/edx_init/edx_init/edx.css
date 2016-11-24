@@ -1,0 +1,107 @@
+/* edX.css */
+
+.head{padding-bottom:35px;
+border-bottom: solid 2px;
+border-bottom-color: grey;
+}
+.EDX{
+ margin-top: 20px;
+ margin-left: 150px;
+ clear: left;
+    
+}
+
+
+.menu{
+  margin-left: 250px;
+  margin-top: -50px;
+
+}
+
+
+.menu ul{
+list-style: none;    
+    text-decoration: none;
+
+}
+.menu li{
+    list-style: none;    
+  
+    padding-left: 20px;
+    float: left; 
+    
+}
+
+.menu a{
+  text-decoration: none;
+  color: #007DB8;
+   font-size: large;
+   font: bold;
+   font-family: "Open Sans",Arial,Helvetica,sans-serif;
+  
+}
+.sign{
+margin-left: 400px;
+clear: left;
+   text-decoration: none;
+padding-right: 10px;
+   font-size: large;
+   color: grey;
+   font-family: "Open Sans",Arial,Helvetica,sans-serif;
+}
+.register{
+text-decoration: none;
+clear: left;
+border: solid 1px;
+border-color: #007DB8;
+padding-left: 40px;
+padding-right: 40px;
+padding-bottom: 10px;
+padding-top: 10px;
+background-color: #007DB8;
+color: white;
+width: 50px;
+font-size: large;
+font-family: "Open Sans",Arial,Helvetica,sans-serif;
+
+
+}
+
+.register:hover{
+ background-color: #4BB4FB;
+color: white;
+border-color: #4BB4FB;
+font-family: "Open Sans",Arial,Helvetica,sans-serif;
+}
+
+.CSSintro{
+float: left;
+padding-left: 120px;
+padding-right:20px;
+}
+
+.p1{
+ font-family: "Open Sans",Arial,Helvetica,sans-serif;
+ color: grey;
+ padding-right: 770px;
+ line-height: 1.5;
+  
+}
+.span1{
+  float: right;
+  margin-top: -220px;
+  margin-right: 350px;
+}
+.span2{
+    float: right;
+    margin-top: -190px;
+  margin-right: 290px;
+}
+.a1{
+      float: right;
+    margin-top: -160px;
+  margin-right: 350px;
+    text-decoration: none;
+}
+
+
